@@ -109,3 +109,7 @@ If no risks are found:
 ## License
 
 MIT License
+
+## Contributors
+
+- [MagVeTs](https://github.com/MagVeTs)
