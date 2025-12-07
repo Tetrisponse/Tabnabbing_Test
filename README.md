@@ -1,4 +1,4 @@
-# tabnabbing_test
+# Tabnabbing Test
 A Python script for checking websites for href links that are vulnerable to tabnabbing.
 
 ## A Tabnabbing Risk Checker
